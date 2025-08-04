@@ -1,0 +1,11 @@
+- name: Manual primer tenista
+  hosts: webservers
+  become: true
+  vars_files:
+  - partido_vars.yml
+  vars:
+    first_name: Sergio
+    last_name: Calalpa Torres
+    city: Mexico
+  roles:
+    - partido

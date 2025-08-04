@@ -1,0 +1,2 @@
+[webservers]
+web3 ansible_connection=local

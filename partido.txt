@@ -1,0 +1,13 @@
+** INFORMACION DEL PARTIDO UNIR **
+
+Primer tenista:
+Nombre: Sergio Calalpa Torres
+Ciudad: Mexico
+ID: SCT-001234567
+
+Segundo tenista:
+Nombre: Víctor Cepeda
+Ciudad: Fronteras
+ID: NSS-04 02 21 4750 6
+
+Fecha del partido: 2025-08-04T08:33:41Z
